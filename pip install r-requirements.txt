@@ -6,4 +6,19 @@ Dự án Quản Lý Học Sinh là một ứng dụng Python đơn giản đư�
 ## Hướng dẫn sử dụng
 1. **Cài đặt Python:** Đảm bảo bạn đã cài đặt Python trên máy tính của bạn.
 2. **Cài đặt thư viện:** Mở dự án và sử dụng pip để cài đặt các thư viện cần thiết bằng cách chạy lệnh sau:
-3. 3. **Chạy ứng dụng:** Mở terminal và chuyển đến thư mục dự án, sau đó chạy lệnh sau:
+3. **Chạy ứng dụng:** Mở terminal và chuyển đến thư mục dự án, sau đó chạy lệnh sau:
+4. **Thao tác với ứng dụng:**
+- Chọn tùy chọn 1 để thêm học sinh mới.
+- Chọn tùy chọn 2 để xóa học sinh.
+- Chọn tùy chọn 3 để hiển thị danh sách học sinh.
+- Chọn tùy chọn 0 để thoát.
+
+## Cách đóng góp
+Nếu bạn muốn đóng góp vào dự án, hãy làm theo các bước sau:
+1. Fork dự án.
+2. Tạo một nhánh (branch) mới cho các tính năng hoặc sửa lỗi bạn muốn đóng góp.
+3. Commit các thay đổi của bạn vào nhánh đó.
+4. Tạo một yêu cầu kéo (pull request) để đề xuất thay đổi.
+
+## Liên hệ
+Nếu bạn có câu hỏi hoặc góp ý, vui lòng liên hệ với chúng tôi qua địa chỉ email: HuynhPhucHoang.Dev@gmail.com
